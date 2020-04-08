@@ -1,0 +1,26 @@
+.header
+{
+	/* craete black color transparency layer*/
+	font-family: "Montserrat", sans-serif;
+	background: #00428a;
+	padding:0 0 5px 0;
+	color:#eee;
+	font-size: 34px; 
+	text-align: center;
+/*F97300 blue color*/
+}
+.nav
+{
+color: chartreuse;
+background-color: darkblue;
+}
+.nav a:visited,  a:hover {
+    color: darkgreen;
+    text-decoration: none;
+  }
+
+  .nav a:active {
+    color: #1976d2;
+    text-decoration: none;
+  }
+  
